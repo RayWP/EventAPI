@@ -1,11 +1,20 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "name": "Azure Event",
+    "date": "2021-09-20",
+    "link": "aka.ms/Azure",
+    "desc": "Free azure event",
+  },
+  {
+    "name": "Alibaba Cloud Event",
+    "date": "2021-12-20",
+    "link": "alibabacloud.com",
+    "desc": "Free Alibaba CLoud event",
+  },
+  {
+    "name": "AWS Event",
+    "date": "202-07-09",
+    "link": "aws.educate.com",
+    "desc": "Free AWS event",
+  },
+]
